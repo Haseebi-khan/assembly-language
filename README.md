@@ -1,67 +1,53 @@
-Assembly Language Projects
+<h1>Assembly Language Projects</h1>
 
-Welcome to the Assembly Language Projects repository! This repository contains various Assembly language tasks along with a Digital Clock Project implemented using Assembly.
+<h2>📌 Repository Contents</h2>
+<ul>
+    <li><strong>Assembly Tasks</strong>: A collection of small Assembly programs demonstrating fundamental concepts.</li>
+    <li><strong>Digital Clock Project</strong>: A complete digital clock implemented in Assembly.</li>
+</ul>
 
-📌 Repository Contents
+<h2>🛠 Requirements</h2>
+<ul>
+    <li><strong>MASM/TASM/NASM</strong>: Depending on the assembler you are using.</li>
+    <li><strong>DOSBox (for 16-bit programs)</strong>: If running older Assembly programs on modern systems.</li>
+    <li><strong>EMU8086</strong>: For running 8086 Assembly programs.</li>
+</ul>
 
-Assembly Tasks: A collection of small Assembly programs demonstrating fundamental concepts.
+<h2>🚀 How to Run</h2>
+<ol>
+    <li>Clone the repository:
+        <pre><code>git clone https://github.com/yourusername/assembly-language-projects.git</code></pre>
+    </li>
+    <li>Navigate to the project directory:
+        <pre><code>cd assembly-language-projects</code></pre>
+    </li>
+    <li>Assemble and run the programs using your preferred assembler.</li>
+</ol>
 
-Digital Clock Project: A complete digital clock implemented in Assembly.
+<h2>📂 Folder Structure</h2>
+<pre>
+📁 assembly-language-projects/
+├── 📁 assembly-tasks
+│   ├── hello-world.asm
+│   └── basic-io.asm
+└── 📁 digital-clock
+    └── clock.asm
+</pre>
 
-🛠 Requirements
+<h2>🎯 Features</h2>
+<ul>
+    <li>Well-structured and commented Assembly code.</li>
+    <li>Demonstrates basic Assembly concepts and system interactions.</li>
+    <li>Includes a functional digital clock program.</li>
+</ul>
 
-To run these Assembly programs, you may need the following:
+<h2>🤝 Contributing</h2>
+<p>Feel free to contribute by adding more Assembly programs, improving documentation, or optimizing existing code. Open a pull request to suggest changes.</p>
 
-MASM/TASM/NASM: Depending on the assembler you are using.
+<h2>📜 License</h2>
+<p>This project is open-source and available under the <strong>MIT License</strong>.</p>
 
-DOSBox (for 16-bit programs): If running older Assembly programs on modern systems.
+<h2>📧 Contact</h2>
+<p>For any questions or suggestions, feel free to reach out via GitHub issues or discussions.</p>
 
-EMU8086: For running 8086 Assembly programs.
-
-🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/assembly-language-projects.git
-
-Navigate to the project directory:
-
-cd assembly-language-projects
-
-Assemble and run the programs using your preferred assembler.
-
-📂 Folder Structure
-
-assembly-language-projects/
-│-- tasks/
-│   │-- task1.asm
-│   │-- task2.asm
-│   └-- ...
-│-- digital-clock/
-│   │-- clock.asm
-│   │-- clock.exe (if compiled)
-│   └-- ...
-└-- README.md
-
-🎯 Features
-
-Well-structured and commented Assembly code.
-
-Demonstrates basic Assembly concepts and system interactions.
-
-Includes a functional digital clock program.
-
-🤝 Contributing
-
-Feel free to contribute by adding more Assembly programs, improving documentation, or optimizing existing code. Open a pull request to suggest changes.
-
-📜 License
-
-This project is open-source and available under the MIT License.
-
-📧 Contact
-
-For any questions or suggestions, feel free to reach out!
-
-Happy Coding! 🚀
-
+<p><strong>Happy Coding! 🚀</strong></p>
